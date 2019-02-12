@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+
+header{
+    background-color: red;
+    width:100%;
+    height: 150px;
+    text-align: center;
+}
+section{
+    background-color: yellow;
+    width: 60%;
+    height: 450px;
+}
+article{
+    background-color: aqua;
+    margin-top: 320px;
+    height: 130px;
+}
+aside{
+    float: left;
+    background-color: grey;
+}
+footer{
+    background-color: pink;
+    height: 70px;
+}
